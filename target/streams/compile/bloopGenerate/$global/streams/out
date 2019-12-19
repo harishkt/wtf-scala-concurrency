@@ -1,0 +1,4 @@
+[debug] [wtf-scala-concurrency] Classpath dependencies List()
+[debug] [wtf-scala-concurrency] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'wtf-scala-concurrency' to '/Users/hkumar/Development/wtf-scala-concurrency/.bloop/wtf-scala-concurrency.json'
+[success] Generated .bloop/wtf-scala-concurrency.json
