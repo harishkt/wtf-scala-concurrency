@@ -1,1 +1,27 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/concurrency-examples_2.12-1.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/concurrency-examples_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/ch2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/ch2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/ch2/ThreadsCreation$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/ch2/ThreadsCreation$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/ch2/ThreadsCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/ch2/ThreadsCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/ch2/ThreadsCreation$Account.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/ch2/ThreadsCreation$Account.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/learningconcurrency/ch2/ThreadsCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org/learningconcurrency/ch2/ThreadsCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hkumar/Development/wtf-scala-concurrency/target/scala-2.12/classes/org[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
